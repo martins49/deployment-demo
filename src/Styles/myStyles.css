@@ -1,0 +1,26 @@
+*{
+    background-color: blue;
+    color: rgb(3, 249, 85);
+}
+
+.nav{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+.nav-items{
+    list-style: none;
+    display: flex;
+}
+.nav-items > li{
+    padding: 10px;
+
+}
+.react-logo{
+    width: 250px;
+}
+.myFooter{
+    background-color: cadetblue;
+    padding: 30px 15px;
+    font-size: 30px;
+}
